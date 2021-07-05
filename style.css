@@ -1,0 +1,18 @@
+h2
+{
+	color: red; 
+	font-size: 40px;
+}
+.thebackground{
+    background-image: url("bg1.jpg");
+    background-size: cover;
+background-position: center;
+    }
+    #mycanvas4{
+        background-color: aliceblue;
+        border: 10px ridge gray;
+        }
+
+        #ca{
+            font-size: 20px;
+        }
